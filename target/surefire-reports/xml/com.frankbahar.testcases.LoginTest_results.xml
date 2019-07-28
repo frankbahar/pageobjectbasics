@@ -4,9 +4,9 @@
            failures="1"
            errors="0"
            skipped="0"
-           time="1.103">
+           time="1.317">
   <properties />
-            <testcase name="loginTest" time="1.103" classname="com.frankbahar.testcases.LoginTest">
+            <testcase name="loginTest" time="1.317" classname="com.frankbahar.testcases.LoginTest">
                 <failure type="java.lang.AssertionError"
                   message="Login test failed"
               >

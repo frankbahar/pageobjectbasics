@@ -4,9 +4,9 @@
            failures="1"
            errors="0"
            skipped="0"
-           time="4.943">
+           time="4.508">
   <properties />
-            <testcase name="createAccountTest" time="4.943" classname="com.frankbahar.testcases.CreateAccountTest">
+            <testcase name="createAccountTest" time="4.508" classname="com.frankbahar.testcases.CreateAccountTest">
                 <failure type="java.lang.AssertionError"
                   message="Create Account Test Failed"
               >

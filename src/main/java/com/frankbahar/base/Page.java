@@ -125,6 +125,7 @@ public class Page {
 					System.getProperty("user.dir") + "\\src\\test\\resources\\com\\frankbahar\\executables\\chromedriver.exe");
 			
 			menu = new TopMenu(driver);
+			
 		}
 	}
 	

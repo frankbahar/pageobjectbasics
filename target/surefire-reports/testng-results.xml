@@ -5,7 +5,7 @@
       <![CDATA[Click to see screenshot]]>
     </line>
     <line>
-      <![CDATA[<a target="blank" href=Mon_May_13_16_50_17_EDT_2019.jpg>Screenshot</a>]]>
+      <![CDATA[<a target="blank" href=Tue_May_21_02_06_34_EDT_2019.jpg>Screenshot</a>]]>
     </line>
     <line>
       <![CDATA[<br>]]>
@@ -14,13 +14,13 @@
       <![CDATA[<br>]]>
     </line>
     <line>
-      <![CDATA[<a target="blank" href=Mon_May_13_16_50_17_EDT_2019.jpg><img src=Mon_May_13_16_50_17_EDT_2019.jpg height=200 width=200</img></a>]]>
+      <![CDATA[<a target="blank" href=Tue_May_21_02_06_34_EDT_2019.jpg><img src=Tue_May_21_02_06_34_EDT_2019.jpg height=200 width=200</img></a>]]>
     </line>
     <line>
       <![CDATA[Click to see screenshot]]>
     </line>
     <line>
-      <![CDATA[<a target="blank" href=Mon_May_13_16_50_34_EDT_2019.jpg>Screenshot</a>]]>
+      <![CDATA[<a target="blank" href=Tue_May_21_02_06_53_EDT_2019.jpg>Screenshot</a>]]>
     </line>
     <line>
       <![CDATA[<br>]]>
@@ -29,15 +29,15 @@
       <![CDATA[<br>]]>
     </line>
     <line>
-      <![CDATA[<a target="blank" href=Mon_May_13_16_50_34_EDT_2019.jpg><img src=Mon_May_13_16_50_34_EDT_2019.jpg height=200 width=200</img></a>]]>
+      <![CDATA[<a target="blank" href=Tue_May_21_02_06_53_EDT_2019.jpg><img src=Tue_May_21_02_06_53_EDT_2019.jpg height=200 width=200</img></a>]]>
     </line>
   </reporter-output>
-  <suite name="Page Object Model" duration-ms="20312" started-at="2019-05-13T20:50:14Z" finished-at="2019-05-13T20:50:34Z">
+  <suite name="Page Object Model" duration-ms="20106" started-at="2019-05-21T06:06:33Z" finished-at="2019-05-21T06:06:53Z">
     <groups>
     </groups>
-    <test name="Login Test" duration-ms="3586" started-at="2019-05-13T20:50:14Z" finished-at="2019-05-13T20:50:17Z">
+    <test name="Login Test" duration-ms="2517" started-at="2019-05-21T06:06:33Z" finished-at="2019-05-21T06:06:35Z">
       <class name="com.frankbahar.testcases.LoginTest">
-        <test-method status="FAIL" signature="loginTest(java.util.Hashtable)[pri:0, instance:com.frankbahar.testcases.LoginTest@5674e1f2]" name="loginTest" duration-ms="1103" started-at="2019-05-13T16:50:14Z" data-provider="dp" finished-at="2019-05-13T16:50:15Z">
+        <test-method status="FAIL" signature="loginTest(java.util.Hashtable)[pri:0, instance:com.frankbahar.testcases.LoginTest@5674e1f2]" name="loginTest" duration-ms="1317" started-at="2019-05-21T02:06:33Z" data-provider="dp" finished-at="2019-05-21T02:06:34Z">
           <params>
             <param index="0">
               <value>
@@ -89,7 +89,7 @@
               <![CDATA[Click to see screenshot]]>
             </line>
             <line>
-              <![CDATA[<a target="blank" href=Mon_May_13_16_50_17_EDT_2019.jpg>Screenshot</a>]]>
+              <![CDATA[<a target="blank" href=Tue_May_21_02_06_34_EDT_2019.jpg>Screenshot</a>]]>
             </line>
             <line>
               <![CDATA[<br>]]>
@@ -98,15 +98,15 @@
               <![CDATA[<br>]]>
             </line>
             <line>
-              <![CDATA[<a target="blank" href=Mon_May_13_16_50_17_EDT_2019.jpg><img src=Mon_May_13_16_50_17_EDT_2019.jpg height=200 width=200</img></a>]]>
+              <![CDATA[<a target="blank" href=Tue_May_21_02_06_34_EDT_2019.jpg><img src=Tue_May_21_02_06_34_EDT_2019.jpg height=200 width=200</img></a>]]>
             </line>
           </reporter-output>
         </test-method> <!-- loginTest -->
       </class> <!-- com.frankbahar.testcases.LoginTest -->
     </test> <!-- Login Test -->
-    <test name="Create Account Test" duration-ms="5374" started-at="2019-05-13T20:50:28Z" finished-at="2019-05-13T20:50:34Z">
+    <test name="Create Account Test" duration-ms="4934" started-at="2019-05-21T06:06:48Z" finished-at="2019-05-21T06:06:53Z">
       <class name="com.frankbahar.testcases.CreateAccountTest">
-        <test-method status="FAIL" signature="createAccountTest(java.util.Hashtable)[pri:0, instance:com.frankbahar.testcases.CreateAccountTest@6986bbaf]" name="createAccountTest" duration-ms="4943" started-at="2019-05-13T16:50:28Z" data-provider="dp" finished-at="2019-05-13T16:50:33Z">
+        <test-method status="FAIL" signature="createAccountTest(java.util.Hashtable)[pri:0, instance:com.frankbahar.testcases.CreateAccountTest@6986bbaf]" name="createAccountTest" duration-ms="4508" started-at="2019-05-21T02:06:48Z" data-provider="dp" finished-at="2019-05-21T02:06:52Z">
           <params>
             <param index="0">
               <value>
@@ -158,7 +158,7 @@
               <![CDATA[Click to see screenshot]]>
             </line>
             <line>
-              <![CDATA[<a target="blank" href=Mon_May_13_16_50_34_EDT_2019.jpg>Screenshot</a>]]>
+              <![CDATA[<a target="blank" href=Tue_May_21_02_06_53_EDT_2019.jpg>Screenshot</a>]]>
             </line>
             <line>
               <![CDATA[<br>]]>
@@ -167,11 +167,11 @@
               <![CDATA[<br>]]>
             </line>
             <line>
-              <![CDATA[<a target="blank" href=Mon_May_13_16_50_34_EDT_2019.jpg><img src=Mon_May_13_16_50_34_EDT_2019.jpg height=200 width=200</img></a>]]>
+              <![CDATA[<a target="blank" href=Tue_May_21_02_06_53_EDT_2019.jpg><img src=Tue_May_21_02_06_53_EDT_2019.jpg height=200 width=200</img></a>]]>
             </line>
           </reporter-output>
         </test-method> <!-- createAccountTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.frankbahar.testcases.CreateAccountTest@6986bbaf]" name="tearDown" is-config="true" duration-ms="843" started-at="2019-05-13T16:50:45Z" finished-at="2019-05-13T16:50:45Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.frankbahar.testcases.CreateAccountTest@6986bbaf]" name="tearDown" is-config="true" duration-ms="775" started-at="2019-05-21T02:07:04Z" finished-at="2019-05-21T02:07:05Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
